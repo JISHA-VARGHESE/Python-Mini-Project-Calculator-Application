@@ -1,6 +1,6 @@
 # Python-Mini-Project-Calculator-Application
 
-This is a basic command-line calculator built with Python. It performs four fundamental arithmetic operations:
+This is a basic command-line calculator built with **Python** using **Jupyter Notebook** It performs four fundamental arithmetic operations:
 
 **1.Addition**
 **2.Subtraction**
@@ -14,5 +14,5 @@ This is a basic command-line calculator built with Python. It performs four fund
 -The result will be displayed.
 
 **Features**
-Handles Addition, Subtraction, Multiplication, and Division.
-Prevents division by zero with a clear error message.
+- Handles Addition, Subtraction, Multiplication, and Division.
+- Prevents division by zero with a clear error message.
